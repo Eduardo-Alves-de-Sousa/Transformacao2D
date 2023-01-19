@@ -1,5 +1,5 @@
 # Transformacao2D
->Implementação de programa para mostrar o resultado de transformações ou composição de transformações
+- Implementação de programas para mostrar o resultado de transformações ou composição de transformações
 ### Rotação
 </br>
 
