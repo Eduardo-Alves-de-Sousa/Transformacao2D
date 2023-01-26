@@ -3,5 +3,6 @@
 ### Rotação
 </br>
 
-  ![image](https://user-images.githubusercontent.com/55249802/213327415-6bf62dc2-27b8-4914-b69d-218ffc62d904.png)
+![image](https://user-images.githubusercontent.com/55249802/214730846-ff391326-3a56-41bd-9095-02134eb18c62.png)
+</br>
 
