@@ -2,11 +2,8 @@
 
 void desenhar(void)
 {
-    //glLoadIdentity();
-
     glTranslatef(0.0f,0.0f,0.0f);
 
-    //glRotatef(45.0f, 0.0f, 0.0f, 1.0f);
     glColor3f(0.0,0.0,1.0);
     glBegin(GL_POLYGON);
         glVertex2f(0.0f,0.0f);
@@ -15,8 +12,7 @@ void desenhar(void)
     glEnd();
 
     glTranslatef(-0.8f,0.0f,0.0f);
-    glScalef(1.5f,1.5f,1.5f);
-    //glRotatef(45.0f, 0.0f, 0.0f, 1.0f);
+    glScalef(1.5f,1.5f,1.5f);// transformação em escala
     glColor3f(1.0,0.0,0.0);
     glBegin(GL_POLYGON);
         glVertex2f(0.0f,0.0f);
