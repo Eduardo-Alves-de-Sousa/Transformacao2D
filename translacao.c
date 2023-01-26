@@ -6,7 +6,6 @@ void desenhar(void)
 
     glTranslatef(0.0f,0.0f,0.0f);
 
-    //glRotatef(45.0f, 0.0f, 0.0f, 1.0f);
     glColor3f(0.0,0.0,1.0);
     glBegin(GL_POLYGON);
         glVertex2f(0.0f,0.0f);
@@ -14,9 +13,8 @@ void desenhar(void)
         glVertex2f(0.50f,0.0f);
     glEnd();
 
-    glTranslatef(0.0f,-0.8f,0.0f);
+    glTranslatef(0.0f,-0.8f,0.0f);//Translação
 
-    //glRotatef(45.0f, 0.0f, 0.0f, 1.0f);
     glColor3f(1.0,0.0,0.0);
     glBegin(GL_POLYGON);
         glVertex2f(0.0f,0.0f);
