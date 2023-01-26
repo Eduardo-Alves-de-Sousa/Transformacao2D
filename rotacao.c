@@ -2,11 +2,8 @@
 
 void desenhar(void)
 {
-    //glLoadIdentity();
-
     glTranslatef(0.0f,0.0f,0.0f);
 
-    //glRotatef(45.0f, 0.0f, 0.0f, 1.0f);
     glColor3f(0.0,0.0,1.0);
     glBegin(GL_TRIANGLES);
         glVertex2f(0.0f,0.0f);
