@@ -2,8 +2,6 @@
 
 void desenhar(void)
 {
-    //glLoadIdentity();
-
     glTranslatef(0.0f,0.0f,0.0f);
 
     glColor3f(0.0,0.0,1.0);
